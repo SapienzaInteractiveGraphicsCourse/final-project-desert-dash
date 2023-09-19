@@ -1,0 +1,11 @@
+Model Information:
+* title:	SCHOOL  BUS - low poly model
+* source:	https://sketchfab.com/3d-models/school-bus-low-poly-model-08f1dfe418d2431bb1a6f48316208e88
+* author:	Jasmin Daniel (https://sketchfab.com/jasmin.daniel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SCHOOL  BUS - low poly model" (https://sketchfab.com/3d-models/school-bus-low-poly-model-08f1dfe418d2431bb1a6f48316208e88) by Jasmin Daniel (https://sketchfab.com/jasmin.daniel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ford Mustang Shelby GT 500 - Low Poly
+* source:	https://sketchfab.com/3d-models/ford-mustang-shelby-gt-500-low-poly-87edae119e1a4f659b39094d5aa70b3f
+* author:	JiggleSticks (https://sketchfab.com/JiggleSticks)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ford Mustang Shelby GT 500 - Low Poly" (https://sketchfab.com/3d-models/ford-mustang-shelby-gt-500-low-poly-87edae119e1a4f659b39094d5aa70b3f) by JiggleSticks (https://sketchfab.com/JiggleSticks) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
