@@ -1,11 +1,13 @@
 # Desert Dash
 <br />
+<br />
 <p align="center">
     <img src="src/images/logo.PNG" alt="Logo" height="200">
-    <h3>In game</h3>
+    </a>
+    
+    <h3 align="center">In game</h3>
     <img src="src/images/in-game.PNG" alt="In-game" height="200">
 </p>
-<br />
 
 # 🕹️ How to Play
 
