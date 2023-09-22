@@ -11,7 +11,7 @@ Here are your controls:
 
 # 🎮 Play
 
-🚀 Ready to dive in? [**PLAY NOW**](https://sapienzainteractivegraphicscourse.github.io/final-project-theboringgame/)
+🚀 Ready to dive in? [**PLAY NOW**]()
 
 # 📖 Report
 
