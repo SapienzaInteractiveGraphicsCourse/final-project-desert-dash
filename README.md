@@ -10,7 +10,7 @@
 
 <h3 align="center">Set in a vast desert landscape, Desert Dash places players behind the wheel of a car on a endless road. The primary objective is to cover the longest distance possible while avoiding obstacles.</h3>
 
-# 🎮 Are you ready to play? [**PLAY NOW!**]()
+# 🎮 Are you ready to play? [**PLAY NOW!**](https://sapienzainteractivegraphicscourse.github.io/final-project-desert-dash/)
 
 Here are your controls:
 
