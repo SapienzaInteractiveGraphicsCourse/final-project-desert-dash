@@ -8,7 +8,7 @@ Here are your controls:
 
 - **⬅️**: Move the car to the left
 - **➡️**: Move the car to the right
-- 
+
 # 🎮 Play
 
 🚀 Ready to dive in? [**PLAY NOW**](https://sapienzainteractivegraphicscourse.github.io/final-project-theboringgame/)
