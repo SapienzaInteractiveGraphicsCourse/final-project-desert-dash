@@ -8,20 +8,17 @@
     <img src="src/images/in-game.PNG" alt="In-game" height="200" width="400">
 </p>
 
-# 🕹️ How to Play
+<h3 align="center">Set in a vast desert landscape, Desert Dash places players behind the wheel of a car on a endless road. The primary objective is to cover the longest distance possible while avoiding obstacles.</h3>
+
+# 🎮 Are you ready to play? [**PLAY NOW**]()
 
 Here are your controls:
 
 - **⬅️**: Move the car to the left
 - **➡️**: Move the car to the right
 
-# 🎮 Play
+# 📖 [**Report**](https://github.com/SapienzaInteractiveGraphicsCourse/final-project-desert-dash/blob/main/Desert_Dash_report.pdf)
 
-🚀 Ready to dive in? [**PLAY NOW**]()
-
-# 📖 Report
-
-Want to know more? Check out our [**REPORT**](https://github.com/SapienzaInteractiveGraphicsCourse/final-project-desert-dash/blob/main/Desert_Dash_report.pdf)
 
 ## 📝 Author
 
