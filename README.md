@@ -2,6 +2,9 @@
 <br />
 <p align="center">
     <img src="src/images/logo.PNG" alt="Logo" height="200">
+</a>
+    <h3>In game</h3>
+    <img src="src/images/in-game.PNG" alt="Logo" height="200">
 </p>
 <br />
 
