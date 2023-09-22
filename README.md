@@ -2,11 +2,10 @@
 <br />
 <br />
 <p align="center">
-    <img src="src/images/logo.PNG" alt="Logo" height="200">
-    </a>
-    
-    <h3 align="center">In game</h3>
-    <img src="src/images/in-game.PNG" alt="In-game" height="200">
+    <img src="src/images/logo.PNG" alt="Logo" height="200" width="400">
+</p>
+<p align="center">
+    <img src="src/images/in-game.PNG" alt="In-game" height="200" width="400">
 </p>
 
 # 🕹️ How to Play
